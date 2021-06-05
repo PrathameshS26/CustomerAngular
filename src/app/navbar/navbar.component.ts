@@ -11,7 +11,7 @@ import { Component, OnInit } from '@angular/core';
           <span class="sr-only">Toggle navigation</span>
           <span class="icon-bar">This is new changes for GitHub Prathamesh branhc</span> //new commit
           <span class="icon-bar">For Git </span>
-          <span class="icon-bar"></span>
+          <span class="icon-bar">A new change here for remote</span>
         </button>
         <a class="navbar-brand" href="#">Login dropdown</a>
       </div>
